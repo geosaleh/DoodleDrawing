@@ -38,7 +38,7 @@ it will show following Output
 <img src="MainWindow.png">
 
 ## Download
-:paperclip: [Download Here](https://github.com/geosaleh/DoodleDrawing/archive/refs/heads/main.zip)
+:paperclip: [Download Here](https://github.com/geosaleh/DoodleDrawing)
 
 Hope you'll install it in your computer just to try .
 
